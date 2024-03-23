@@ -1,0 +1,14 @@
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:36:13:initVisualIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:62:13:deInitVisualIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:77:6:BSP_VIM_InitVisualIndicators	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:89:6:BSP_VIM_DeInitVisualIndicators	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:101:6:BSP_VIM_ActivateRunnigIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:109:6:BSP_VIM_DeActivateRuningIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:117:6:BSP_VIM_ActivateTemperatureAlarmIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:125:6:BSP_VIM_DeActivateTemperatureAlarmIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:133:6:BSP_VIM_ActivateTemperatureSensorStatusIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:141:6:BSP_VIM_DeActivateTemperatureSensorStatusIndicator	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:149:6:BSP_VIM_LedOn	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:161:6:BSP_VIM_LedOff	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:173:6:BSP_VIM_LedToggle	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_visual_indicators_manager.c:184:12:BSP_VIM_GetLedState	1

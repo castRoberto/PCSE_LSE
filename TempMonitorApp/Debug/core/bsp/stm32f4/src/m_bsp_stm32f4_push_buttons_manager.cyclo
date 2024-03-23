@@ -1,0 +1,6 @@
+../core/bsp/stm32f4/src/m_bsp_stm32f4_push_buttons_manager.c:22:13:initButton	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_push_buttons_manager.c:40:13:deInitButton	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_push_buttons_manager.c:47:6:BSP_PBM_InitButtons	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_push_buttons_manager.c:58:6:BSP_PBM_DeInitButtons	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_push_buttons_manager.c:69:15:BSP_PBM_ReadStarButton	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_push_buttons_manager.c:76:15:BSP_PBM_ReadButton	1

@@ -1,0 +1,4 @@
+../core/app/src/m_app_temp_monitor_core.c:21:13:manageIndicators	5
+../core/app/src/m_app_temp_monitor_core.c:69:13:manageTemperature	2
+../core/app/src/m_app_temp_monitor_core.c:82:6:APP_TMC_setup	1
+../core/app/src/m_app_temp_monitor_core.c:93:6:APP_TMC_run	1

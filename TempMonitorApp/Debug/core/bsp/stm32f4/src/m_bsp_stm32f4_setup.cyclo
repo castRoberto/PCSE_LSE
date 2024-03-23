@@ -1,0 +1,3 @@
+../core/bsp/stm32f4/src/m_bsp_stm32f4_setup.c:29:6:BSP_Error_Handler	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_setup.c:42:13:SystemClock_Config	3
+../core/bsp/stm32f4/src/m_bsp_stm32f4_setup.c:97:6:BSP_HardwareSetup	1

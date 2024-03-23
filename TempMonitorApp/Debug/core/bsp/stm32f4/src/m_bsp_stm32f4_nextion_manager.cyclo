@@ -1,0 +1,4 @@
+../core/bsp/stm32f4/src/m_bsp_stm32f4_nextion_manager.c:29:6:BSP_NM_ConfigureDisplay	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_nextion_manager.c:68:13:showData	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_nextion_manager.c:75:13:tempValueFix	1
+../core/bsp/stm32f4/src/m_bsp_stm32f4_nextion_manager.c:85:6:BSP_NM_ShowTemperatureData	3

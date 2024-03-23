@@ -1,0 +1,3 @@
+../core/bsp/stm32f4/src/m_bsp_stm32f4_temperature_manager.c:40:13:initTemperatureSensor	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_temperature_manager.c:73:6:BSP_TM_InitTemperatureSensors	2
+../core/bsp/stm32f4/src/m_bsp_stm32f4_temperature_manager.c:84:6:BSP_TM_GetTemperatureData	2

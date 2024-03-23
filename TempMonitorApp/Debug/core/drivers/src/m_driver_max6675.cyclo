@@ -1,0 +1,3 @@
+../core/drivers/src/m_driver_max6675.c:16:6:MAX6675_updateDataRaw	1
+../core/drivers/src/m_driver_max6675.c:27:7:MAX6675_getTemperature	1
+../core/drivers/src/m_driver_max6675.c:40:9:MAX6675_getSensorStatus	1
